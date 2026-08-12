@@ -1,4 +1,5 @@
 # Fulltext Search
+![CI](https://github.com/FerrowAI/fulltext-search/actions/workflows/ci.yml/badge.svg)
 
 In-memory full-text search using an inverted index with OR matching across query terms.
 

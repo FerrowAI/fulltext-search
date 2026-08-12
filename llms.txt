@@ -1,6 +1,7 @@
 # fulltext-search
+> In-memory full-text search using an inverted index with OR matching across query terms.
 
-In-memory full-text search using an inverted index with OR matching across query terms. ```javascript const search = new FulltextSearch();
+In-memory full-text search using an inverted index with OR matching across query terms.
 
 ## API
 - `FulltextSearch`

@@ -1,0 +1,11 @@
+# fulltext-search
+
+In-memory full-text search using an inverted index with OR matching across query terms. ```javascript const search = new FulltextSearch();
+
+## API
+- `FulltextSearch`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai

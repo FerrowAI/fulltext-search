@@ -1,1 +1,1 @@
-{"name":"fulltext-search","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"fulltext-search","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["fulltext","search","inverted-index","typescript","in-memory"],"license":"MIT"}

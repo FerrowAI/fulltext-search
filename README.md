@@ -1,6 +1,6 @@
 # Fulltext Search
 
-Lightning-fast full-text search. Index data for Ferrow retrieval agents.
+In-memory full-text search using an inverted index with OR matching across query terms.
 
 ```javascript
 const search = new FulltextSearch();
@@ -9,9 +9,9 @@ const results = search.query('machine learning');
 ```
 
 ## Features
-- ✓ Elasticsearch integration
-- ✓ Relevance ranking
-- ✓ Faceted search
-- ✓ Ferrow RAG pipeline
+- In-memory inverted index (word -> document IDs)
+- OR-matching query across all query terms
 
 ## License: MIT
+
+Sponsored by [Ferrow](https://ferrow.ai)

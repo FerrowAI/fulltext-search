@@ -1,4 +1,6 @@
 # fulltext-search
+
+Install: npm install @ferrow/fulltext-search
 > In-memory full-text search using an inverted index with OR matching across query terms.
 
 In-memory full-text search using an inverted index with OR matching across query terms.
